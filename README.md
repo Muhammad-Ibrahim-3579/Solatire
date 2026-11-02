@@ -1,0 +1,2 @@
+# Solatire
+Klondike solatire implemented
